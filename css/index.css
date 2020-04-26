@@ -73,6 +73,34 @@ figure {
   background-color: rgba(0, 0, 0, 0.7);
   color: #9CFFC2;
 }
+.eventTag {
+  position: absolute;
+  text-align: right;
+  padding-right: 15%;
+  bottom: 13%;
+  font-size: 5rem;
+  width: 100%;
+  font-weight: 700;
+  background-color: rgba(255, 255, 255, 0.5);
+  color: #76B38D;
+}
+.upcoming {
+  text-align: center;
+  font-size: 3rem;
+  color: #936DB3;
+  padding: 2rem;
+}
+.eventText {
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+.eventText h3 {
+  color: #936DB3;
+  font-weight: 700;
+}
+.eventText h5 {
+  color: #76B38D;
+}
 .footBack {
   background-color: #936DB3;
   padding-top: 10px;
