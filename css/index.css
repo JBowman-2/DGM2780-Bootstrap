@@ -6,16 +6,35 @@ body {
   font-size: 16px;
 }
 .navBack {
-  background-color: #FFEDCF;
+  background-color: #936DB3;
 }
 .menu {
-  color: black;
+  color: white;
   text-align: center;
   padding: 15px 0px;
 }
 .logo {
-  color: #936DB3;
+  color: #FFEDCF;
   font-size: 1.5rem;
   font-weight: 700;
   padding: 8px 0px 8px 35px;
+}
+.mainImg img {
+  max-width: 100%;
+}
+.container-fluid {
+  padding: 0px;
+}
+main {
+  background-color: #FFEDCF;
+}
+.boxes {
+  padding: 0 2%;
+}
+.gut {
+  padding: 0 0.5%;
+  margin: 0px;
+}
+.footBack {
+  background-color: #936DB3;
 }
